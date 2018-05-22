@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pup-oauth2-csiclient-1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../pup-oauth2-csiclient-1.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../pup-oauth2-csiclient-1.0/appClientModule" />
+    </SOURCES>
+  </library>
+</component>

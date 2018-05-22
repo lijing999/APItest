@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="poi-3.171">
+    <CLASSES>
+      <root url="jar://D:/测试工具/selenium相关安装包/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar!/" />
+      <root url="jar://D:/测试工具/selenium相关安装包/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar!/" />
+      <root url="jar://D:/测试工具/selenium相关安装包/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar!/" />
+      <root url="jar://D:/测试工具/selenium相关安装包/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar!/" />
+      <root url="jar://D:/测试工具/selenium相关安装包/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://D:/测试工具/selenium相关安装包/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

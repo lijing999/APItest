@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test">
+		<packages>
+			<package name="cn.testfan.testng" />
+		</packages>
+
+		<!-- <classes> -->
+		<!-- <class name="cn.testfan.testng.Test1" /> -->
+		<!-- <class name="cn.testfan.testng.Test2" /> -->
+		<!-- </classes> -->
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

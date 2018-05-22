@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="pup-oauth2-common-1.0">
+    <CLASSES>
+      <root url="jar://D:/工作软件/apache-jmeter-3.2/lib/pup-oauth2-common-1.0.jar!/" />
+      <root url="jar://D:/工作软件/apache-jmeter-3.2/lib/pup-oauth2-csiclient-1.0.jar!/" />
+      <root url="jar://D:/工作软件/apache-jmeter-3.2/lib/pup-oauth2-key-1.0.jar!/" />
+      <root url="jar://D:/工作软件/apache-jmeter-3.2/lib/pup-oauth2-rsclient-1.0 - 副本.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/工作软件/apache-jmeter-3.2/lib/pup-oauth2-csiclient-1.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
